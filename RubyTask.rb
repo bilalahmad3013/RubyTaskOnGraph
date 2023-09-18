@@ -95,7 +95,7 @@ else
     while temp > 0
     str=""
     last =temp%10
-    t="#{last}"+ u
+    t="#{last}"+ t
     if last != 0        
         if pow == 1
             str=getNum(last)
