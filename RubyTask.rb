@@ -53,7 +53,7 @@ def getNumTens(x)
    elsif x==8 
        return "Eighty"       
    elsif x==9 
-       return "Ninety"       
+       return "Ninetyeen"       
    end 
 end
 def getNumSpecial(x)
